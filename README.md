@@ -2,7 +2,7 @@
 - Blazing fast.
 - Free as in "free beer" - no credit card required.
 - Free as in freedom!
-- Privacy-respecting -  AI-free and even works offline.
+- Privacy-respecting - AI-free and even works offline.
 - User-friendly.
 
 # How to?
